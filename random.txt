@@ -1,0 +1,53 @@
+spotify-this-song,"I Want it That Way"dirty dancingtitle: undefined
+
+year: undefined
+
+showRating: undefined
+
+released: undefined
+
+genre: undefined
+
+plot: undefinedName of the venue: Wonder Ballroom
+
+Venue location: Portland
+
+Date: 2019-05-12T19:00:28title: undefined
+
+year: undefined
+
+showRating: undefined
+
+released: undefined
+
+genre: undefined
+
+plot: undefinedtitle: undefined
+
+year: undefined
+
+showRating: undefined
+
+released: undefined
+
+genre: undefined
+
+plot: undefinedName of the venue: Wonder Ballroom
+
+Venue location: Portland
+
+Date: 2019-05-12T19:00:28Name of the venue: Metro Metro Festival
+
+Venue location: Montreal
+
+Date: 2019-05-18T16:00:00title: undefined
+
+year: undefined
+
+showRating: undefined
+
+released: undefined
+
+genre: undefined
+
+plot: undefined
