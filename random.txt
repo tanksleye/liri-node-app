@@ -50,4 +50,56 @@ released: undefined
 
 genre: undefined
 
-plot: undefined
+plot: undefinedtitle: Greased Lightning: BMW Flash Dance
+
+year: 2011
+
+imdbRating: N/A
+
+country: Australia
+
+rotten tomatos rating: undefined
+
+plot: N/A
+
+actors: Shane Pascoetitle: Greased Lightning: BMW Flash Dance
+
+year: 2011
+
+imdbRating: N/A
+
+country: Australia
+
+rotten tomatos rating: undefined
+
+plot: N/A
+
+actors: Shane Pascoetitle: Dirty Dancing
+
+year: 1987
+
+imdbRating: 6.9
+
+country: USA
+
+rotten tomatos rating: undefined
+
+plot: Spending the summer at a Catskills resort with her family, Frances "Baby" Houseman falls in love with the camp's dance instructor, Johnny Castle.
+
+actors: Jennifer Grey, Patrick Swayze, Jerry Orbach, Cynthia Rhodestitle: Dirty Dancing
+
+year: 1987
+
+imdbRating: 6.9
+
+country: USA
+
+rotten tomatos rating: 71%
+
+plot: Spending the summer at a Catskills resort with her family, Frances "Baby" Houseman falls in love with the camp's dance instructor, Johnny Castle.
+
+actors: Jennifer Grey, Patrick Swayze, Jerry Orbach, Cynthia RhodesName of the venue: The Forum
+
+Venue location: Los Angeles
+
+Date: 2019-06-07T19:30:00

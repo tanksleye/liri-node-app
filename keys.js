@@ -20,12 +20,13 @@ var Keys = function(){
                 var jsonData = response.data;
 
                 var movieData = [
-                 "title: " + jsonData.title,
-                 "year: " + jsonData.year,
-                 "showRating: " + jsonData.rated,
-                 "released: " + jsonData.released,
-                 "genre: " + jsonData.genre,
-                 "plot: " + jsonData.plot
+                 "title: " + jsonData.Title,
+                 "year: " + jsonData.Year,
+                 "imdbRating: " + jsonData.imdbRating,
+                 "country: " + jsonData.Country,
+                 "rotten tomatos rating: " + jsonData.Ratings[1].Value,
+                 "plot: " + jsonData.Plot,
+                 "actors: " + jsonData.Actors
                 ].join("\n\n");
         
                 fs.appendFile("random.txt", movieData, function(err){
@@ -65,7 +66,7 @@ var Keys = function(){
             id: "0a02303b68e34513b5dd335beb62cd29",
             secret: "d6ec33b3f6ce425c857dd2caab91a56d"
         });
-        spotify.search({type: "track", query : song})
+        spotify.search({type: "track", query : song, limit: 5})
             .then(function(response){
                 console.log(response);
             })
