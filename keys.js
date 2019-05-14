@@ -6,7 +6,7 @@ exports.spotify = {
     id: process.env.SPOTIFY_ID,
     secret: process.env.SPOTIFY_SECRET
 };
-
+var moment = require("moment");
 var axios = require("axios");
 var fs = require("fs");
 
@@ -49,7 +49,9 @@ var Keys = function(){
                 "Date: " + jsonData.datetime
                 // (use moment to format this as "MM/DD/YYYY")
             ].join("\n\n");
-
+            
+            moment().format();
+            
             fs.appendFile("random.txt", concertData, function(err) {
                 if (err) throw err;
                 console.log(concertData);
@@ -57,16 +59,19 @@ var Keys = function(){
         });
     };
 
+    // having trouble with this one. It said I didn't have a token, not sure what that meant 
+    // but it somewhat works
     this.findSong = function(song) {
         var Spotify = require("node-spotify-api");
         
         // var search = function({ type: "track", query: song, limit: 5 }, callback);
 
+
         var spotify = new Spotify ({
             id: "0a02303b68e34513b5dd335beb62cd29",
             secret: "d6ec33b3f6ce425c857dd2caab91a56d"
         });
-        spotify.search({type: "track", query : song, limit: 5})
+        spotify.search({type: "track", query: song, limit: 5})
             .then(function(response){
                 console.log(response);
             })
@@ -75,14 +80,12 @@ var Keys = function(){
             });
         
     };
-// .catch(function (error) {
-//     console.log(error);
-//   });
+
 
 };
 
-// this.findSong = function(song) {
-
-// };
+// didn't understand the do what it says one. 
+// best thing that I could come up with was the readFile
+// but not sure if that would work. 
 
 module.exports = Keys;

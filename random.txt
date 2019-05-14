@@ -102,4 +102,56 @@ actors: Jennifer Grey, Patrick Swayze, Jerry Orbach, Cynthia RhodesName of the v
 
 Venue location: Los Angeles
 
-Date: 2019-06-07T19:30:00
+Date: 2019-06-07T19:30:00title: Back to the Future
+
+year: 1985
+
+imdbRating: 8.5
+
+country: USA
+
+rotten tomatos rating: 96%
+
+plot: Marty McFly, a 17-year-old high school student, is accidentally sent thirty years into the past in a time-traveling DeLorean invented by his close friend, the maverick scientist Doc Brown.
+
+actors: Michael J. Fox, Christopher Lloyd, Lea Thompson, Crispin GloverName of the venue: Encore Theater at Wynn Las Vegas
+
+Venue location: Las Vegas
+
+Date: 2019-05-18T22:00:00Name of the venue: CHI Health Center Omaha
+
+Venue location: Omaha
+
+Date: 2019-05-14T19:30:00title: Dirty Dancing
+
+year: 1987
+
+imdbRating: 6.9
+
+country: USA
+
+rotten tomatos rating: 71%
+
+plot: Spending the summer at a Catskills resort with her family, Frances "Baby" Houseman falls in love with the camp's dance instructor, Johnny Castle.
+
+actors: Jennifer Grey, Patrick Swayze, Jerry Orbach, Cynthia RhodesName of the venue: LADY GAGA ENIGMA
+
+Venue location: Las Vegas
+
+Date: 2019-05-30T20:00:07title: Flashdance
+
+year: 1983
+
+imdbRating: 6.2
+
+country: USA
+
+rotten tomatos rating: 35%
+
+plot: A Pittsburgh woman with two jobs as a welder and an exotic dancer wants to get into ballet school.
+
+actors: Jennifer Beals, Michael Nouri, Lilia Skala, Sunny JohnsonName of the venue: Luna Park
+
+Venue location: San Nicolas
+
+Date: 2019-06-06T19:00:56
